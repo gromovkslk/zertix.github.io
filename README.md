@@ -1,3 +1,4 @@
-# zertix.github.io
+# salam
 
-Auto-commit setup verified.
+https://zertix.pw | https://zertix.cloud
+
